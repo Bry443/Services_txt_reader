@@ -1,0 +1,2 @@
+These are the services that have been changed:
+Microsoft Office Click-to-Run Service	?Manages resource coordination, background streaming, and system integration of Microsoft Office products and their related updates. This service is required to run during the use of any Microsoft Office program, during initial streaming installation and all subsequent updates.?	Manual	Local System
